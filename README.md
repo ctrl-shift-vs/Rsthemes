@@ -22,3 +22,6 @@ The colours have been meticulously selected to be cohesive with the rest of the 
 ## `# TRUE Bright`
 
 <img width="1802" alt="Screenshot 2024-09-26 at 10 35 38 pm" src="https://github.com/user-attachments/assets/488d41ce-df34-4c41-8a60-0759e1ac7d28">
+
+---
+To add this theme, go to global options > appearance > add.
