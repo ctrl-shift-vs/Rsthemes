@@ -290,6 +290,10 @@
     background: #303030;
 }
 
+td.GNTYACMBPBC {
+  width: 50%;
+}
+
 /* ---- RStudio Theme ---- */
 /* background */
 .rstudio-themes-flat .rstudio-themes-dark-grey {
